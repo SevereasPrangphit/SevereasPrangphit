@@ -1,6 +1,6 @@
 - Hey, I’m @SevereasPrangphit
 - I’m interested in Harry potter
-- I’m currently learning Javascript
+- I’m currently learning Java Springboot
 - I’m looking to collaborate 
 - I like solving challenges 
 

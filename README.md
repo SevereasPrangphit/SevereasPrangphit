@@ -1,8 +1,9 @@
-- Hey, I’m @SevereasPrangphit
-- I’m interested in Harry potter
-- I’m currently learning Java Springboot
-- I’m looking to collaborate 
-- I like solving challenges 
+- Hey, I’m Severeas H. Prangphit aka Veeresh Pratap Singh.
+- I am proficient in C++ and Python.
+- I harbour an ardent interest in Mathematics, specially Probability and Statistics.
+- I like doing mathematical research work in Machine/Deep Learning. 
+- I’m currently learning Java Springboot & Angular. 
+- I like solving challenges. 
 
 <!---
 SevereasPrangphit/SevereasPrangphit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

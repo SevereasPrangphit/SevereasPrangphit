@@ -1,4 +1,4 @@
-- Hey, I’m Severeas H. Prangphit aka Veeresh Pratap Singh.
+- Hey, I’m Severeas H. Prangphit. 
 - I am proficient in C++ and Python.
 - I harbour an ardent interest in Mathematics, specially Probability and Statistics.
 - I like doing mathematical research work in Machine/Deep Learning. 
